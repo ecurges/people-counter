@@ -4,7 +4,7 @@ https://gleeful-cobbler-6e7f58.netlify.app/
 
 # Technologies Used
 
-HTML, CSS, JavaScript
+HTML, CSS, & JavaScript
 
 # About
 
